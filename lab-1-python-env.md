@@ -2,6 +2,7 @@
 
 With conda, you can create, export, list, remove, and update environments that have different versions of Python and/or packages installed in them. Switching or moving between environments is called activating the environment. You can also share an environment file.
 
+## Let's start on your bash shell (terminal) 
 ## 1. Create a new environment called 'klasa-env' that contains Python 3.7
 
 `conda create -n klasa-env python=3.7`
