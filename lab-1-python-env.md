@@ -41,3 +41,5 @@ Install all dependencies needed to use jupyter
 Install the kernel for this environment and specify the display name
 
 `python -m ipykernel install --user --name klasa-env --display-name 'KLASA Env'` 
+
+Refresh your jupyter web page and select your new jupyter kernel!
