@@ -1,5 +1,8 @@
 # Managing Python Environments with Conda
 
+A virtual environment is a tool that helps to keep dependencies required by different projects separate by creating isolated python virtual environments for them. This is one of the most important tools that most of the Python developers use
+
+
 With conda, you can create, export, list, remove, and update environments that have different versions of Python and/or packages installed in them. Switching or moving between environments is called activating the environment. You can also share an environment file.
 
 ## Let's start on your bash shell (terminal) 
